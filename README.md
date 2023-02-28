@@ -33,8 +33,9 @@ or via mouse
 ![](system_properties-advanced-environment_variables.png) ![](systemeigenschaften-erweitert-umgebungsvariablen.png)
     
 
-select the top entry, click ARROW-DOWN as much times as the number says
+select the top most entry\
+-> click ARROW-DOWN as much times as the number says
 
-in the example 29 times
+in the example **29** times
 
 ![](example_match01_29.png)
